@@ -2,7 +2,7 @@
 
 This project implements a scalable and reactive product search microservice designed to handle a large catalog of millions of products. It leverages the power of Kotlin, Spring Boot, Spring Cloud, and Reactive Elasticsearch to provide efficient product search, autocomplete suggestions, and faceted navigation.
 
-## Featuress
+## Features
 
 * **Product Name Search:** Allows users to search for products based on keywords in their names.
 * **Autocomplete:** Provides fast and relevant product name suggestions as users type, powered by Elasticsearch's Completion Suggester.
